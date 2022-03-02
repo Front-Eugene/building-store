@@ -1,0 +1,20 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass",
+		"../sass/_main.sass",
+		"../sass/_header.sass",
+		"../sass/_mixin.sass",
+		"../sass/_variables.sass"
+	],
+	"sourcesContent": [
+		"@import \"_main\";\n@import \"_header\";\n@import \"_mixin\";\n@import \"_variables\";\n",
+		"",
+		"h2 {\n    color: yellow; }\n",
+		"div {\n    color: pink; }\n",
+		""
+	],
+	"names": [],
+	"mappings": ";AEAA,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,MAAM;CAAG;;;ACDpB,AAAA,GAAG,CAAC;EACA,KAAK,EAAE,IAAI;CAAG"
+}
